@@ -1,4 +1,4 @@
-# Parallel-Programming
+# Parallel-Programming Assignments
 
 1. Parallel Odd-Even Transposition Sort 
 
