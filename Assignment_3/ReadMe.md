@@ -1,4 +1,4 @@
-##N-body Simulation
+## N-body Simulation
 sequetial code
 pthread version
 MPI version
